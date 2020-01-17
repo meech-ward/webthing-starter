@@ -1,6 +1,8 @@
-# Express Starter
+# Web Thing Starter
 
-Use this as a starting point for any express app.
+Use this as a starting point for any [Mozilla IoT Node Thing](https://github.com/mozilla-iot/webthing-node).
+
+Based on [Express Starter](https://github.com/meech-ward/express-starter)
 
 ## Getting Started
 
